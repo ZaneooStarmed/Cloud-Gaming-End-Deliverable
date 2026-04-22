@@ -1,0 +1,21 @@
+{
+    "sunshine_name":  "sunshine",
+    "sunshine_cpu":  0,
+    "network_adapter":  "Ethernet 4",
+    "network_upload_mbps":  0.107,
+    "sunshine_uptime":  0,
+    "uptime_seconds":  0,
+    "total_sessions":  25,
+    "memory_mb":  0,
+    "network_total_received_mb":  43268.79,
+    "network_download_mbps":  0.012,
+    "network_total_sent_mb":  52033.53,
+    "dolphin_running":  false,
+    "sunshine_memory":  59.96,
+    "sunshine_pid":  10244,
+    "process_id":  null,
+    "clumsy_running":  false,
+    "cpu_usage":  0,
+    "timestamp":  "2026-04-12 03:07:27",
+    "sunshine_running":  true
+}

@@ -1,0 +1,155 @@
+[2026-03-26 00:35:41] Host Agent started
+[2026-03-26 00:59:41] Host Agent started â€
+[2026-03-26 01:00:26] Dolphin is now RUNNING â€
+[2026-03-26 01:00:40] Dolphin is now RUNNING â€
+[2026-03-26 01:20:05] Dolphin is now RUNNING â€
+[2026-03-26 01:20:07] Dolphin is now RUNNING â€
+[2026-03-26 01:20:09] Dolphin is now RUNNING â€
+[2026-03-26 01:20:11] Dolphin is now RUNNING â€
+[2026-03-26 01:20:13] Dolphin is now RUNNING â€
+[2026-03-26 01:20:15] Dolphin is now RUNNING â€
+[2026-03-26 01:20:17] Dolphin is now RUNNING â€
+[2026-03-26 01:20:20] Dolphin is now RUNNING â€
+[2026-03-26 01:20:22] Dolphin is now RUNNING â€
+[2026-03-26 01:20:24] Dolphin is now RUNNING â€
+[2026-03-26 01:20:42] Dolphin is now RUNNING â€
+[2026-03-26 01:20:56] Dolphin is now RUNNING â€
+[2026-03-26 01:33:05] Host Agent started
+[2026-03-26 01:33:05] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-26 01:33:06] Total sessions so far: 0
+[2026-03-26 01:33:06] Sunshine detected - process name: sunshine
+[2026-03-26 01:33:06] Session counter incremented to: 1
+[2026-03-26 01:33:06] NEW SESSION DETECTED - Total sessions: 1
+[2026-03-26 01:36:50] Dolphin session ended
+[2026-03-26 01:36:56] Session counter incremented to: 2
+[2026-03-26 01:36:56] NEW SESSION DETECTED - Total sessions: 2
+[2026-03-26 01:37:26] Dolphin session ended
+[2026-03-26 01:37:32] Session counter incremented to: 3
+[2026-03-26 01:37:32] NEW SESSION DETECTED - Total sessions: 3
+[2026-03-26 02:17:04] Host Agent started
+[2026-03-26 02:17:05] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-26 02:17:05] Total sessions so far: 3
+[2026-03-26 02:17:05] Sunshine detected - process name: sunshine
+[2026-03-26 02:17:05] Session counter incremented to: 4
+[2026-03-26 02:17:05] NEW SESSION DETECTED - Total sessions: 4
+[2026-03-26 02:17:19] Dolphin session ended
+[2026-03-26 02:17:58] Session counter incremented to: 5
+[2026-03-26 02:17:58] NEW SESSION DETECTED - Total sessions: 5
+[2026-03-26 02:19:16] Dolphin session ended
+[2026-03-26 02:24:36] Session counter incremented to: 6
+[2026-03-26 02:24:36] NEW SESSION DETECTED - Total sessions: 6
+[2026-03-26 02:30:12] Dolphin session ended
+[2026-03-28 17:51:37] Host Agent started with network monitoring
+[2026-03-28 17:51:37] Network adapter: Ethernet
+[2026-03-28 17:51:37] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 17:51:37] Total sessions so far: 6
+[2026-03-28 17:51:37] Sunshine detected - process name: sunshine
+[2026-03-28 17:54:43] Session counter incremented to: 7
+[2026-03-28 17:54:43] NEW SESSION DETECTED - Total sessions: 7
+[2026-03-28 17:54:47] Dolphin session ended
+[2026-03-28 17:54:53] Session counter incremented to: 8
+[2026-03-28 17:54:53] NEW SESSION DETECTED - Total sessions: 8
+[2026-03-28 18:15:10] Host Agent started with network monitoring
+[2026-03-28 18:15:10] Network adapter: Ethernet
+[2026-03-28 18:15:10] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 18:15:10] Total sessions so far: 8
+[2026-03-28 18:15:10] Sunshine detected - process name: sunshine
+[2026-03-28 18:15:11] Session counter incremented to: 9
+[2026-03-28 18:15:11] NEW SESSION DETECTED - Total sessions: 9
+[2026-03-28 18:25:24] Host Agent started with network monitoring
+[2026-03-28 18:25:24] Network adapter: Ethernet
+[2026-03-28 18:25:24] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 18:25:24] Total sessions so far: 9
+[2026-03-28 18:25:24] Sunshine detected - process name: sunshine
+[2026-03-28 18:25:26] Session counter incremented to: 10
+[2026-03-28 18:25:26] NEW SESSION DETECTED - Total sessions: 10
+[2026-03-28 18:25:53] Host Agent started with network monitoring
+[2026-03-28 18:25:53] Network adapter: Ethernet
+[2026-03-28 18:25:53] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 18:25:53] Total sessions so far: 10
+[2026-03-28 18:25:53] Sunshine detected - process name: sunshine
+[2026-03-28 18:25:54] Session counter incremented to: 11
+[2026-03-28 18:25:54] NEW SESSION DETECTED - Total sessions: 11
+[2026-03-28 18:27:58] Host Agent started with network monitoring
+[2026-03-28 18:27:58] Network adapter: Ethernet
+[2026-03-28 18:27:58] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 18:27:58] Total sessions so far: 11
+[2026-03-28 18:27:58] Sunshine detected - process name: sunshine
+[2026-03-28 18:27:59] Session counter incremented to: 12
+[2026-03-28 18:27:59] NEW SESSION DETECTED - Total sessions: 12
+[2026-03-28 18:32:50] Host Agent started with network monitoring
+[2026-03-28 18:32:50] Network adapter: WiFi 3
+[2026-03-28 18:32:50] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 18:32:50] Total sessions so far: 12
+[2026-03-28 18:32:50] Sunshine detected - process name: sunshine
+[2026-03-28 18:32:51] Session counter incremented to: 13
+[2026-03-28 18:32:51] NEW SESSION DETECTED - Total sessions: 13
+[2026-03-28 23:35:59] Host Agent started with network monitoring
+[2026-03-28 23:35:59] Network adapter: WiFi 3
+[2026-03-28 23:35:59] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-28 23:35:59] Total sessions so far: 13
+[2026-03-28 23:35:59] Sunshine detected - process name: sunshine
+[2026-03-28 23:36:00] Session counter incremented to: 14
+[2026-03-28 23:36:00] NEW SESSION DETECTED - Total sessions: 14
+[2026-03-31 20:48:35] Host Agent started with network monitoring
+[2026-03-31 20:48:35] Network adapter: WiFi 3
+[2026-03-31 20:48:35] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-03-31 20:48:35] Total sessions so far: 14
+[2026-03-31 20:48:35] Sunshine detected - process name: sunshine
+[2026-03-31 20:49:43] Session counter incremented to: 15
+[2026-03-31 20:49:43] NEW SESSION DETECTED - Total sessions: 15
+[2026-03-31 21:01:13] Dolphin session ended
+[2026-04-06 16:23:00] Host Agent started with network monitoring
+[2026-04-06 16:23:00] Network adapter: WiFi 3
+[2026-04-06 16:23:00] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-04-06 16:23:01] Total sessions so far: 15
+[2026-04-06 16:23:01] Sunshine detected - process name: sunshine
+[2026-04-06 16:24:24] Host Agent started with network monitoring
+[2026-04-06 16:24:24] Network adapter: Ethernet 4
+[2026-04-06 16:24:24] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-04-06 16:24:24] Total sessions so far: 15
+[2026-04-06 16:24:24] Sunshine detected - process name: sunshine
+[2026-04-06 16:34:30] Host Agent started with network monitoring
+[2026-04-06 16:34:30] Network adapter: Ethernet 4
+[2026-04-06 16:34:30] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-04-06 16:34:30] Total sessions so far: 15
+[2026-04-06 16:34:30] Sunshine detected - process name: sunshine
+[2026-04-06 16:34:31] Session counter incremented to: 16
+[2026-04-06 16:34:31] NEW SESSION DETECTED - Total sessions: 16
+[2026-04-07 00:17:14] Dolphin session ended
+[2026-04-08 17:30:53] Session counter incremented to: 17
+[2026-04-08 17:30:53] NEW SESSION DETECTED - Total sessions: 17
+[2026-04-08 17:33:35] Dolphin session ended
+[2026-04-08 17:36:15] Session counter incremented to: 18
+[2026-04-08 17:36:15] NEW SESSION DETECTED - Total sessions: 18
+[2026-04-08 17:44:20] Dolphin session ended
+[2026-04-08 18:05:13] Session counter incremented to: 19
+[2026-04-08 18:05:13] NEW SESSION DETECTED - Total sessions: 19
+[2026-04-08 18:27:04] Dolphin session ended
+[2026-04-08 18:31:36] Session counter incremented to: 20
+[2026-04-08 18:31:36] NEW SESSION DETECTED - Total sessions: 20
+[2026-04-08 19:39:41] Dolphin session ended
+[2026-04-11 23:17:46] Host Agent started with network monitoring
+[2026-04-11 23:17:46] Network adapter: Ethernet 4
+[2026-04-11 23:17:46] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-04-11 23:17:47] Total sessions so far: 20
+[2026-04-11 23:17:47] Sunshine detected - process name: sunshine
+[2026-04-11 23:17:51] Session counter incremented to: 21
+[2026-04-11 23:17:51] NEW SESSION DETECTED - Total sessions: 21
+[2026-04-12 00:19:24] Dolphin session ended
+[2026-04-12 00:20:08] Session counter incremented to: 22
+[2026-04-12 00:20:08] NEW SESSION DETECTED - Total sessions: 22
+[2026-04-12 00:21:19] Dolphin session ended
+[2026-04-12 00:21:27] Session counter incremented to: 23
+[2026-04-12 00:21:27] NEW SESSION DETECTED - Total sessions: 23
+[2026-04-12 00:35:00] Host Agent started with network monitoring
+[2026-04-12 00:35:01] Network adapter: Ethernet 4
+[2026-04-12 00:35:01] Dolphin path: C:\Program Files\Dolphin-x64\Dolphin.exe
+[2026-04-12 00:35:01] Total sessions so far: 23
+[2026-04-12 00:35:01] Sunshine detected - process name: sunshine
+[2026-04-12 00:35:03] Session counter incremented to: 24
+[2026-04-12 00:35:03] NEW SESSION DETECTED - Total sessions: 24
+[2026-04-12 01:17:40] Dolphin session ended
+[2026-04-12 01:17:52] Session counter incremented to: 25
+[2026-04-12 01:17:52] NEW SESSION DETECTED - Total sessions: 25
+[2026-04-12 02:22:02] Dolphin session ended

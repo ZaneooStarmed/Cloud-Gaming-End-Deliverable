@@ -1,0 +1,10 @@
+global:
+  scrape_interval: 5s      # Scrape every 5 seconds for latency granularity
+  evaluation_interval: 5s
+
+scrape_configs:
+# Session manager - tracks gaming sessions
+  - job_name: 'session-manager'
+    static_configs:
+      - targets: ['session-manager:3000']
+    metrics_path: '/metrics'
